@@ -1,6 +1,5 @@
 /* CSC Assignment 7
  * Alex Holland - V00928553
- * 3/5/2020
  */
 #include <stdio.h>
 
