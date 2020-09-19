@@ -1,6 +1,5 @@
 /*CSC Assignment 5: Pointers and Condition driven loops
  * Alex Holland - V00928553
- * 2/19/2020
  */
 #include <stdio.h>
 #include <stdlib.h>
