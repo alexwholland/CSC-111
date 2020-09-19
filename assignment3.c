@@ -1,6 +1,5 @@
 /* CSC Assignment 3
  * Name: Alex Holland - V00928553
- * Date: 1/28/2020
  */
 #include <stdio.h>
 
