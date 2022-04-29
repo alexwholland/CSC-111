@@ -1,7 +1,7 @@
 /*
  * CSC 111 Assignment 1
  * 
- * Author: Alex Holland V00928553
+ * Author: Alex Holland
  *
  * Purpose:
  * -Write functions to print Ascii Art (logo) in a specified order.
