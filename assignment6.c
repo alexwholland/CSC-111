@@ -1,5 +1,5 @@
 /*CSC Assignment 6
- * Alex Holland - V00928553
+ * Alex Holland
  */
 #include <stdio.h>
 
