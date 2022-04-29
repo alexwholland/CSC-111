@@ -1,5 +1,5 @@
 /*Assigment 4: Count driven loops
- *Alex Holland V00928553
+ *Alex Holland
  */
 
 #include <stdio.h>
