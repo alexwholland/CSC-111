@@ -1,5 +1,5 @@
 /*CSC Assigment 2
- * Alex Holland - V00928553
+ * Alex Holland
  */
 
 #include <stdio.h>
