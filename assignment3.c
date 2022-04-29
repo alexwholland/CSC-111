@@ -1,5 +1,5 @@
 /* CSC Assignment 3
- * Name: Alex Holland - V00928553
+ * Name: Alex Holland
  */
 #include <stdio.h>
 
