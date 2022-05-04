@@ -12,6 +12,7 @@ Computational Problem Solving and Software Engineering
 - Debugging techniques
 - Algorithms
 - Data representation and data structures (sequences, arrays and lists
+
 Programming in C
 - The C development and build process
 - Variables and types
